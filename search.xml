@@ -1,107 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>不要害怕困难</title>
-      <link href="/2020/06/07/%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E5%9B%B0%E9%9A%BE/"/>
-      <url>/2020/06/07/%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E5%9B%B0%E9%9A%BE/</url>
-      
-        <content type="html"><![CDATA[<h1 id="不要害怕困难"><a href="#不要害怕困难" class="headerlink" title="不要害怕困难"></a>不要害怕困难</h1><p>一个物理学家因研究某课题成绩不佳而转换课题，却意外获得众多新发现，在众人皆庆贺其“审时度势”时，却有一个大科学家不以为然，认为应持之以恒地钻研“最厚的地方”，而我认为，尝试在泥泞中抬脚，总好过深陷此中不愿自拔。</p><p>面对“易”的诱惑，“难”更显可贵!在这个物欲横流的社会，金钱名利的诱惑着实算得上夏娃偷食的美味“禁果”，因而不论是物理学家，亦或是这个社会的其他人，我们对于“求易”行为，都不应简单地归之为无法持之以恒，正如林达所言：“刺破平静水面的锐利冰锋，也许它仅露出一角。”所以我们不仅要看过这些怕苦贪易的表面，更要看到其背后如冰山之重的本质。那便于对功利主义对社会的危害，恐怕能做到“心不动于微刑之诱，目不眩于五色之惑”的人少之又少，因而我们更要做到迎难而上!</p><p>顾此失彼，图谋超前，只会一事无成!古有“枫叶经霜艳，梅花透雪香”“不经一番寒彻骨，哪得梅花香扑鼻”。西方莎士比亚也曾告诫世人：“唯有埋头才有出头，急于出人头地的人，不会真正得到什么。”因而，我们应该知道，要想成功，三心二意是万万不可的，只有不畏艰难困苦，数十年如一日的努力，才能获得真实的成功，有靠低俗内容走红的网红，还有只会创作毫无内容的鸡汤文学的“作家”，可无数历史伟人向我们证明，那些害怕困难，想以捷径取得成功的人都是不现实的，迎难而上，即便道阻且长。埋头苦干，克服困难，一切终会实现。</p><p>富兰克林言：“懒惰，像生锈一样，比操劳更能消耗身体，经常用的钥匙总是亮闪闪的。”成功没有捷径可走，欲获成功就必下苦功!正如蒲松龄所言：“书痴者文必工，艺痴者技必良。”《我在故宫修文物》中的王师傅耗费200多天仅为修一只文物表，沉下气来，才使一件件文物重焕光彩;曹雪芹“披阅十载，增删五次”，静下心来，才铸就了千古名著《红楼梦》;马克思在图书馆所坐位置下的水泥被他磨去一层，耗费了40多年，才著成震惊世界的《资本论》。世间万事无论难易，全在一“勤”字，只要肯下苦功夫，哪有不成之事。</p><p>《红与黑》中曾说，一条路并不因为它路旁长满荆棘而丧失美丽，旅行者照旧向前进。</p><p>面对困难，方显英雄本色。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/06/07/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
       <categories>
-          
-          <category> 作文 </category>
-          
+        <category>hello world</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 困难 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2020/06/07/hello-world/"/>
-      <url>/2020/06/07/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
+      <tags>
+        <tag>hello world</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>不要害怕困难</title>
+    <url>/2020/06/07/%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E5%9B%B0%E9%9A%BE/</url>
+    <content><![CDATA[<h1 id="不要害怕困难"><a href="#不要害怕困难" class="headerlink" title="不要害怕困难"></a>不要害怕困难</h1><p>一个物理学家因研究某课题成绩不佳而转换课题，却意外获得众多新发现，在众人皆庆贺其“审时度势”时，却有一个大科学家不以为然，认为应持之以恒地钻研“最厚的地方”，而我认为，尝试在泥泞中抬脚，总好过深陷此中不愿自拔。</p>
+<p>面对“易”的诱惑，“难”更显可贵!在这个物欲横流的社会，金钱名利的诱惑着实算得上夏娃偷食的美味“禁果”，因而不论是物理学家，亦或是这个社会的其他人，我们对于“求易”行为，都不应简单地归之为无法持之以恒，正如林达所言：“刺破平静水面的锐利冰锋，也许它仅露出一角。”所以我们不仅要看过这些怕苦贪易的表面，更要看到其背后如冰山之重的本质。那便于对功利主义对社会的危害，恐怕能做到“心不动于微刑之诱，目不眩于五色之惑”的人少之又少，因而我们更要做到迎难而上!</p>
+<p>顾此失彼，图谋超前，只会一事无成!古有“枫叶经霜艳，梅花透雪香”“不经一番寒彻骨，哪得梅花香扑鼻”。西方莎士比亚也曾告诫世人：“唯有埋头才有出头，急于出人头地的人，不会真正得到什么。”因而，我们应该知道，要想成功，三心二意是万万不可的，只有不畏艰难困苦，数十年如一日的努力，才能获得真实的成功，有靠低俗内容走红的网红，还有只会创作毫无内容的鸡汤文学的“作家”，可无数历史伟人向我们证明，那些害怕困难，想以捷径取得成功的人都是不现实的，迎难而上，即便道阻且长。埋头苦干，克服困难，一切终会实现。</p>
+<p>富兰克林言：“懒惰，像生锈一样，比操劳更能消耗身体，经常用的钥匙总是亮闪闪的。”成功没有捷径可走，欲获成功就必下苦功!正如蒲松龄所言：“书痴者文必工，艺痴者技必良。”《我在故宫修文物》中的王师傅耗费200多天仅为修一只文物表，沉下气来，才使一件件文物重焕光彩;曹雪芹“披阅十载，增删五次”，静下心来，才铸就了千古名著《红楼梦》;马克思在图书馆所坐位置下的水泥被他磨去一层，耗费了40多年，才著成震惊世界的《资本论》。世间万事无论难易，全在一“勤”字，只要肯下苦功夫，哪有不成之事。</p>
+<p>《红与黑》中曾说，一条路并不因为它路旁长满荆棘而丧失美丽，旅行者照旧向前进。</p>
+<p>面对困难，方显英雄本色。</p>
+]]></content>
       <categories>
-          
-          <category> hello world </category>
-          
+        <category>作文</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> hello world </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>熟悉的小路</title>
-      <link href="/2020/06/07/%E7%86%9F%E6%82%89%E7%9A%84%E5%B0%8F%E8%B7%AF/"/>
-      <url>/2020/06/07/%E7%86%9F%E6%82%89%E7%9A%84%E5%B0%8F%E8%B7%AF/</url>
-      
-        <content type="html"><![CDATA[<p>回想起上学的日子，我印象最深的要数那条熟悉的小路了。</p><p>小时候幼儿园、小学、初中都是在镇子里上学习的。由于那时候条件没有现在好，还是会走一些乡间小路的。在那样的路上行走，难免会遇到很多事情。其中多数自然是会为自己带来不便的。印象最深的就要数雨天了。那时候，一下大雨，整条小路都会变成泥泞。要去学校只是带一把伞只是防雨，但是鞋子和裤子有大半边都会湿透，也会沾上泥巴。但是现在回想起来，那样的日子并不是吃苦，而是对于知识的渴望，对于生活的享受。</p><p>在那条熟悉的小路上，我还能遇到许多有意思的人，督促着自己健康成长。小时候调皮，总是爱拖着鞋子走路，发出一阵难听的摩擦声。而有一次遇到了一对夫妻一般的陌生男女，当时他们冲我走来还对我搭话。这可把我吓了一跳，生怕他俩是坏人。结果那个叔叔也只是很温和的对我讲，走路要抬好腿，把鞋子穿好，不然以后就很难改掉了。尽管我现在依旧回忆不起来那一对夫妻的模样，但是我还是很感谢他们两位，让我在人生路上少了一个缺点。</p><p>而当时的小路，是极为富有人情味的。许多时候，家里人担心孩子一个人走出现什么意外，不放心，就会在课程结束之后亲自接孩子回家，或者送孩子去学校。我当时算是独立比较早的了，没有经常让父母接送的习惯。不过，每当我一个人走在路上，总会有一些同学的爸爸妈妈之类的亲人也把我拉到他们身边，说“一起走吧。”那时候，感觉那种安全感是十分难得的，十分的温暖和美好，我至今仍然能够感受得到。</p><p>还有一些情况就更加有趣儿了。</p><p>在这条路上，时常能够看到一些小动物的身影，尽管不多。有时候雨天过后，会发现一个黑不溜秋圆滚滚的小家伙，浑身是刺，但是当它舒展身体，又能够看到它细腻的，粉红色的皮肤。没错，这个动物就是刺猬。还有的时候，能在树上看到会爬树的老鼠，当然，这老鼠是棕黄色，比家里的老鼠可要可爱好多倍了！是松鼠。至于小白兔什么的，我其实小时候一直有期待遇到，只不过遗憾的是并没有遇到过。</p><p>遗憾的是，后来我念高中到了县城里读书。在县城里的路和市区一般无二，并没有了曾经的那些人情味。偶尔会遇到闯红灯发生意外的车辆。这让我不免心生出了几分哀伤。长大之后，几乎所有的人都想要去更远的地方，更大的城市。而对于我们这种普通农村的小家庭里的孩子来讲，努力念书才是唯一的出路。我时常会因此而暗下决心，当我以后如果能够有所作为，一定要为家乡做些什么。让和我一样镇子上的孩子们能够享受到更加美满的生活。</p><p>后来，我走那条路的机会越来越少了。我也很少往曾经的小学里去了。在某一次无意间听闻，那条小路已经没有了，周边的树木也被清理，如今已经变成了柏油马路。我的心里一震，不知道该高兴还是失落。条件变好了，以后孩子们也不用再踩着泥泞的小路去学校了。但同时，我儿时的回忆也会逐渐湮没于时光。未来再想重新回到曾经旧时光的机会，已经没有了。</p><p>而今，我正在一条康庄大道上继续努力的成长，可我依旧会记得那条小路。它不仅是我童年的美好回忆，更是一代人成长的道路，我想，在未来的某一天，许多人都会和我一样吧。怀念着过往，心里想着那条熟悉的小路……</p>]]></content>
-      
-      
+      <tags>
+        <tag>困难</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>熟悉的小路</title>
+    <url>/2020/06/07/%E7%86%9F%E6%82%89%E7%9A%84%E5%B0%8F%E8%B7%AF/</url>
+    <content><![CDATA[<p>回想起上学的日子，我印象最深的要数那条熟悉的小路了。</p>
+<p>小时候幼儿园、小学、初中都是在镇子里上学习的。由于那时候条件没有现在好，还是会走一些乡间小路的。在那样的路上行走，难免会遇到很多事情。其中多数自然是会为自己带来不便的。印象最深的就要数雨天了。那时候，一下大雨，整条小路都会变成泥泞。要去学校只是带一把伞只是防雨，但是鞋子和裤子有大半边都会湿透，也会沾上泥巴。但是现在回想起来，那样的日子并不是吃苦，而是对于知识的渴望，对于生活的享受。</p>
+<p>在那条熟悉的小路上，我还能遇到许多有意思的人，督促着自己健康成长。小时候调皮，总是爱拖着鞋子走路，发出一阵难听的摩擦声。而有一次遇到了一对夫妻一般的陌生男女，当时他们冲我走来还对我搭话。这可把我吓了一跳，生怕他俩是坏人。结果那个叔叔也只是很温和的对我讲，走路要抬好腿，把鞋子穿好，不然以后就很难改掉了。尽管我现在依旧回忆不起来那一对夫妻的模样，但是我还是很感谢他们两位，让我在人生路上少了一个缺点。</p>
+<p>而当时的小路，是极为富有人情味的。许多时候，家里人担心孩子一个人走出现什么意外，不放心，就会在课程结束之后亲自接孩子回家，或者送孩子去学校。我当时算是独立比较早的了，没有经常让父母接送的习惯。不过，每当我一个人走在路上，总会有一些同学的爸爸妈妈之类的亲人也把我拉到他们身边，说“一起走吧。”那时候，感觉那种安全感是十分难得的，十分的温暖和美好，我至今仍然能够感受得到。</p>
+<p>还有一些情况就更加有趣儿了。</p>
+<p>在这条路上，时常能够看到一些小动物的身影，尽管不多。有时候雨天过后，会发现一个黑不溜秋圆滚滚的小家伙，浑身是刺，但是当它舒展身体，又能够看到它细腻的，粉红色的皮肤。没错，这个动物就是刺猬。还有的时候，能在树上看到会爬树的老鼠，当然，这老鼠是棕黄色，比家里的老鼠可要可爱好多倍了！是松鼠。至于小白兔什么的，我其实小时候一直有期待遇到，只不过遗憾的是并没有遇到过。</p>
+<p>遗憾的是，后来我念高中到了县城里读书。在县城里的路和市区一般无二，并没有了曾经的那些人情味。偶尔会遇到闯红灯发生意外的车辆。这让我不免心生出了几分哀伤。长大之后，几乎所有的人都想要去更远的地方，更大的城市。而对于我们这种普通农村的小家庭里的孩子来讲，努力念书才是唯一的出路。我时常会因此而暗下决心，当我以后如果能够有所作为，一定要为家乡做些什么。让和我一样镇子上的孩子们能够享受到更加美满的生活。</p>
+<p>后来，我走那条路的机会越来越少了。我也很少往曾经的小学里去了。在某一次无意间听闻，那条小路已经没有了，周边的树木也被清理，如今已经变成了柏油马路。我的心里一震，不知道该高兴还是失落。条件变好了，以后孩子们也不用再踩着泥泞的小路去学校了。但同时，我儿时的回忆也会逐渐湮没于时光。未来再想重新回到曾经旧时光的机会，已经没有了。</p>
+<p>而今，我正在一条康庄大道上继续努力的成长，可我依旧会记得那条小路。它不仅是我童年的美好回忆，更是一代人成长的道路，我想，在未来的某一天，许多人都会和我一样吧。怀念着过往，心里想着那条熟悉的小路……</p>
+]]></content>
       <categories>
-          
-          <category> 作文 </category>
-          
+        <category>作文</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 小路 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的小学</title>
-      <link href="/2020/06/07/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/"/>
-      <url>/2020/06/07/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/</url>
-      
-        <content type="html"><![CDATA[<p>小学在我村里的最东边静静地躺着，它依然还是如父亲上学的模样，它也是我们附近几个村唯一的一所小学。</p><p>阳光下，用钢管和钢筋焊接的铁栏大门黝黑地闪着光亮，下雨天，铁栏大门总会沾着无数的泥巴，学校的院子是土做的，常常聚留着一滩一滩的水，每逢这样，我们就高兴坏了，因为我们全校就不用跑操了。</p><p>我六岁时，秋季报名开始了，母亲在镇上的饭店做服务员，老板人不好，母亲请假回家给我报名，老板愣是连半天的假都不准。母亲急着给村里赶集的人捎话，让我姨妈领着我去报名，姨妈闻讯就赶着来我家了，那时候我不知道姨妈为啥只站在大门口喊着叫我，我堂大伯听见门口有吵闹声，上身穿着个灰色的背心就出来了，我姨妈给我大伯说明了原因，大伯生气极了赶着到屋里，我还是躲在奶奶身后的哭。</p><p>奶奶一只手抱着我，一边给大伯说，你看这样，要不明年再让上学。大伯一听奶奶心软了，说，那不行今天我把他绑也要绑到学校里。我是被大伯抗在肩上走进小学的。我不敢想，如果当初没有大伯那样的苦苦抓我，怎么会有一个现在的我。 学校里聚集着村里熟悉的面孔，大人，小孩，他们无不洋溢着笑容，可我心里的胆怯还是存在，只是我不敢哭了。</p><p>姨妈认识校长，直接带我去办公室，校长花白的头发，带着一副老式的眼镜，穿着一身青色的西装。校长一看我这样，笑着给姨妈说，这么大了应该上学了，你带着去一年级教室去报名。教室里摆满着密密麻麻的黑色，红色，黄色的桌子，高低层次不一样，学生也多，挤得满满的，几个人有挤着坐在一起的，也有两个人趴在一张桌子上的。姨妈带着我进来了，班主任和姨妈说了几句，就安排我坐到倒数第二排的空位置上。姨妈刚要走，我小心的拉着姨妈的衣襟小声抽泣起来，同学顿时都哈哈大笑起来。</p><p>刚开始大家谁也不认识谁，我也不敢和大家说话，渐渐地我不再胆怯了。班主任既是我们的语文老师，还给我们换了座位，我们一男一女的坐，并强调不准再私自换，上课不许说话。</p><p>后来班主任换了一位漂亮的女老师，她长得很白，大家给她起绰号“白老鼠”我也跟着他们叫。她给我们教语文，布置的作业两天就能写一个作业本，我母亲经常给我说你沾了那个老师的光了，如果她当时不布置你练习拼音，估计你这时候的拼音还不如你父亲。</p><p>我记得有一次，晚上没有做完作业，心里就想着把前几次的翻出来滥竽充数，蒙混过关，早上去了教室，“白老鼠”正站在门口一个人一个人查作业，挨到我了，我翻出旧的作业给她看，她一看不对，我脸红透了，揪着我耳朵，重重的一脚踢在我屁股上，从那时我也知道老师是打人的。老师罚我趴在窗台把昨天的作业重写两遍，直到第一节课结束我才拿着作业去办公室去交，从此之后她布置的作业我每次都能完整的上交过关。</p><p>时间过着过着就到现在了，年前我特意去了趟小学，小学新修了，现代化建设一一俱全，校长还是我父亲和我时候的校长，头发全白了。我趴在教室的窗台上，老师站在讲台上手舞足蹈的讲着。再看讲台下面偌大的教室，墙粉刷的很白净，桌子变成了统一的样子，可是学生寥寥无几，到显得有些冷清。</p><p>我也大概听说了，现在农村孩子都去城里读书了。 突然心里莫名的难受，一个学校没有了学生也终将变得黯淡无光，就连老师也会随着这个学校湮没在这个没有光辉的学校里。</p><p>我不知道校长是怎么想的，但我肯定知道他一定是孤独的，，但他更加愿意选择自己的职业，选择在三尺讲台挥洒自己的青春和热血，因为他明白做好一名老师的职责。我也不敢去想我村里那么大的学校，终将有一日会沦为空校。</p><p>可是事实证明这种形式依旧在不断加剧着，我的小学或许它已经接近她的暮年，就要快跌倒的那一刹那，祖国还没有忘记她，扶持着她重回轨道，我希望有一年我还能带着我的孩子去我的小学，我也希望我的小学也能和城里的学校一样，把孩子们的童年与欢乐继续养在的那片热土，若干年后依旧能遍地开花。</p>]]></content>
-      
-      
+      <tags>
+        <tag>小路</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的小学</title>
+    <url>/2020/06/07/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/</url>
+    <content><![CDATA[<p>小学在我村里的最东边静静地躺着，它依然还是如父亲上学的模样，它也是我们附近几个村唯一的一所小学。</p>
+<p>阳光下，用钢管和钢筋焊接的铁栏大门黝黑地闪着光亮，下雨天，铁栏大门总会沾着无数的泥巴，学校的院子是土做的，常常聚留着一滩一滩的水，每逢这样，我们就高兴坏了，因为我们全校就不用跑操了。</p>
+<p>我六岁时，秋季报名开始了，母亲在镇上的饭店做服务员，老板人不好，母亲请假回家给我报名，老板愣是连半天的假都不准。母亲急着给村里赶集的人捎话，让我姨妈领着我去报名，姨妈闻讯就赶着来我家了，那时候我不知道姨妈为啥只站在大门口喊着叫我，我堂大伯听见门口有吵闹声，上身穿着个灰色的背心就出来了，我姨妈给我大伯说明了原因，大伯生气极了赶着到屋里，我还是躲在奶奶身后的哭。</p>
+<p>奶奶一只手抱着我，一边给大伯说，你看这样，要不明年再让上学。大伯一听奶奶心软了，说，那不行今天我把他绑也要绑到学校里。我是被大伯抗在肩上走进小学的。我不敢想，如果当初没有大伯那样的苦苦抓我，怎么会有一个现在的我。 学校里聚集着村里熟悉的面孔，大人，小孩，他们无不洋溢着笑容，可我心里的胆怯还是存在，只是我不敢哭了。</p>
+<p>姨妈认识校长，直接带我去办公室，校长花白的头发，带着一副老式的眼镜，穿着一身青色的西装。校长一看我这样，笑着给姨妈说，这么大了应该上学了，你带着去一年级教室去报名。教室里摆满着密密麻麻的黑色，红色，黄色的桌子，高低层次不一样，学生也多，挤得满满的，几个人有挤着坐在一起的，也有两个人趴在一张桌子上的。姨妈带着我进来了，班主任和姨妈说了几句，就安排我坐到倒数第二排的空位置上。姨妈刚要走，我小心的拉着姨妈的衣襟小声抽泣起来，同学顿时都哈哈大笑起来。</p>
+<p>刚开始大家谁也不认识谁，我也不敢和大家说话，渐渐地我不再胆怯了。班主任既是我们的语文老师，还给我们换了座位，我们一男一女的坐，并强调不准再私自换，上课不许说话。</p>
+<p>后来班主任换了一位漂亮的女老师，她长得很白，大家给她起绰号“白老鼠”我也跟着他们叫。她给我们教语文，布置的作业两天就能写一个作业本，我母亲经常给我说你沾了那个老师的光了，如果她当时不布置你练习拼音，估计你这时候的拼音还不如你父亲。</p>
+<p>我记得有一次，晚上没有做完作业，心里就想着把前几次的翻出来滥竽充数，蒙混过关，早上去了教室，“白老鼠”正站在门口一个人一个人查作业，挨到我了，我翻出旧的作业给她看，她一看不对，我脸红透了，揪着我耳朵，重重的一脚踢在我屁股上，从那时我也知道老师是打人的。老师罚我趴在窗台把昨天的作业重写两遍，直到第一节课结束我才拿着作业去办公室去交，从此之后她布置的作业我每次都能完整的上交过关。</p>
+<p>时间过着过着就到现在了，年前我特意去了趟小学，小学新修了，现代化建设一一俱全，校长还是我父亲和我时候的校长，头发全白了。我趴在教室的窗台上，老师站在讲台上手舞足蹈的讲着。再看讲台下面偌大的教室，墙粉刷的很白净，桌子变成了统一的样子，可是学生寥寥无几，到显得有些冷清。</p>
+<p>我也大概听说了，现在农村孩子都去城里读书了。 突然心里莫名的难受，一个学校没有了学生也终将变得黯淡无光，就连老师也会随着这个学校湮没在这个没有光辉的学校里。</p>
+<p>我不知道校长是怎么想的，但我肯定知道他一定是孤独的，，但他更加愿意选择自己的职业，选择在三尺讲台挥洒自己的青春和热血，因为他明白做好一名老师的职责。我也不敢去想我村里那么大的学校，终将有一日会沦为空校。</p>
+<p>可是事实证明这种形式依旧在不断加剧着，我的小学或许它已经接近她的暮年，就要快跌倒的那一刹那，祖国还没有忘记她，扶持着她重回轨道，我希望有一年我还能带着我的孩子去我的小学，我也希望我的小学也能和城里的学校一样，把孩子们的童年与欢乐继续养在的那片热土，若干年后依旧能遍地开花。</p>
+]]></content>
       <categories>
-          
-          <category> 作文 </category>
-          
+        <category>作文</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 小学 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>小学</tag>
+      </tags>
+  </entry>
 </search>
